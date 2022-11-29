@@ -18,7 +18,6 @@
 .pokemons li {
     display: flex;
     flex-direction: column;
-
     padding: 1rem;
     margin: 0.5rem;
     background-color: #14a06f;
